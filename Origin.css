@@ -1,0 +1,12 @@
+p
+{
+  font-family: 'Odachi', Impact;
+}
+@font-face
+{
+    font-family: 'Odachi';
+    src: url('Webfont/Odachi.eot') format('eot'),
+         url('Webfont/Odachi.woff') format('woff'),
+         url('Webfont/Odachi.ttf') format('truetype'),
+         url('Webfont/Odachi.svg') format('svg');
+}
